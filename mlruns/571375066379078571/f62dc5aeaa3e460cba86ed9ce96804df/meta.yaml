@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/571375066379078571/f62dc5aeaa3e460cba86ed9ce96804df/artifacts
+end_time: 1711432900746
+entry_point_name: ''
+experiment_id: '571375066379078571'
+lifecycle_stage: active
+run_id: f62dc5aeaa3e460cba86ed9ce96804df
+run_name: flawless-croc-382
+run_uuid: f62dc5aeaa3e460cba86ed9ce96804df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711432899117
+status: 3
+tags: []
+user_id: sajad

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/571375066379078571/0932bbedb4894550a19a452e6782de48/artifacts
+end_time: 1711879834012
+entry_point_name: ''
+experiment_id: '571375066379078571'
+lifecycle_stage: active
+run_id: 0932bbedb4894550a19a452e6782de48
+run_name: debonair-kit-619
+run_uuid: 0932bbedb4894550a19a452e6782de48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711879832678
+status: 3
+tags: []
+user_id: sajad

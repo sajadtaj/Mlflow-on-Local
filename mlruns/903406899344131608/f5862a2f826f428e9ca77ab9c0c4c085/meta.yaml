@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/903406899344131608/f5862a2f826f428e9ca77ab9c0c4c085/artifacts
+end_time: 1711434886191
+entry_point_name: ''
+experiment_id: '903406899344131608'
+lifecycle_stage: active
+run_id: f5862a2f826f428e9ca77ab9c0c4c085
+run_name: spiffy-tern-498
+run_uuid: f5862a2f826f428e9ca77ab9c0c4c085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711434884779
+status: 3
+tags: []
+user_id: sajad
